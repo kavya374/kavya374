@@ -1,1 +1,1 @@
-<img src="https://i.ibb.co/QcFfC3Z/Welcome.png" alt="Welcome" border="0">
+<div style="text-align:center;"><img src="https://i.ibb.co/QcFfC3Z/Welcome.png" alt="Welcome"></div>
