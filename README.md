@@ -52,6 +52,13 @@
 
 <h3 align="left">🔥   My Stats :</h3>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kavya374&show_icons=true&locale=en&layout=compact" alt="kavya374" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kavya374&show_icons=true&locale=en" alt="kavya374" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kavya374&" alt="kavya374" /></p>
+
+
 ###
 
 <p align="left"></p>
