@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left">Hey there! I’m Kavya Ajay 🌟<br><br>🚀 Currently navigating my journey as a BTech CSE undergraduate.<br><br>🌱 Immersed in mastering the MERN full stack development - building the web, one line of code at a time.<br><br>✨ When I'm not coding, you’ll find me lost in a book or designing my next big idea.<br><br>Let’s connect and create something amazing together!</p>
+<p align="left">Hey there! I’m Kavya 🌟<br><br>🚀 Currently navigating my journey as a BTech CSE undergraduate.<br><br>🌱 Immersed in mastering the MERN full stack development - building the web, one line of code at a time.<br><br>✨ When I'm not coding, you’ll find me lost in a book or designing my next big idea.<br><br>Let’s connect and create something amazing together!</p>
 
 ###
 
